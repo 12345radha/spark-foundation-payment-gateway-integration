@@ -63,6 +63,7 @@ nav {
     overflow-x: hidden;
   }
   .nav-links {
+    z-index:12;
     position: absolute;
     right: 0;
     height: 92vh;
